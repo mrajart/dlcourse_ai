@@ -1,1 +1,12 @@
 .DS_Store
+assignments/assignment1/bash.exe
+assignments/assignment1/data/test_32x32.mat
+assignments/assignment1/data/train_32x32.mat
+assignments/assignment1/mkdir.exe
+assignments/assignment1/wget.exe
+*.pyc
+assignments/assignment2/bash.exe
+assignments/assignment2/data/test_32x32.mat
+assignments/assignment2/data/train_32x32.mat
+assignments/assignment2/mkdir.exe
+assignments/assignment2/wget.exe
