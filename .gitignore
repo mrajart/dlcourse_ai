@@ -10,3 +10,8 @@ assignments/assignment2/data/test_32x32.mat
 assignments/assignment2/data/train_32x32.mat
 assignments/assignment2/mkdir.exe
 assignments/assignment2/wget.exe
+assignments/assignment3/bash.exe
+assignments/assignment3/data/test_32x32.mat
+assignments/assignment3/data/train_32x32.mat
+assignments/assignment3/mkdir.exe
+assignments/assignment3/wget.exe
