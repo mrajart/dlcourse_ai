@@ -15,3 +15,10 @@ assignments/assignment3/data/test_32x32.mat
 assignments/assignment3/data/train_32x32.mat
 assignments/assignment3/mkdir.exe
 assignments/assignment3/wget.exe
+*.mat
+assignments/assignment4/bash.exe
+assignments/assignment4/mkdir.exe
+*.jpg
+assignments/assignment4/train.zip
+assignments/assignment4/test.zip
+assignments/assignment4/wget.exe
